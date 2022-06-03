@@ -1,0 +1,14 @@
+h1 {
+  color: lavenderblush;
+  margin-top: .2rem;
+}
+
+.card {
+  border: .085rem solid salmon;
+  border-radius: .2rem;
+  background-color: rgb(227, 205, 248);
+}
+
+body {
+  background-color: rgb(223, 223, 246);
+}

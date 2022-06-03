@@ -5257,7 +5257,6 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .jumbotron h1 {
-  color: white;
   font-family: 'Times New Roman', Times, serif;
   font-style: italic;
 }
@@ -5266,6 +5265,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   float: right;
   border: .5rem solid salmon;
   border-radius: 2.0rem;
+  width: 15rem;
 }
 
 @media (min-width: 576px) {
