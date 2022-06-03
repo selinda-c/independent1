@@ -194,7 +194,9 @@ figure {
 
 img {
   vertical-align: middle;
-  border-style: none;
+  border: .2rem solid salmon;
+  border-radius: 2.0rem;
+  width: 15rem;
 }
 
 svg {
