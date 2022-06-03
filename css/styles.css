@@ -1,14 +1,27 @@
 h1 {
   color: lavenderblush;
   margin-top: .2rem;
+  text-align: center;
+  font-style: italic;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .card {
   border: .085rem solid salmon;
   border-radius: .2rem;
   background-color: rgb(227, 205, 248);
+  margin-top: .75rem;
+}
+
+.card img {
+  float: right;
 }
 
 body {
   background-color: rgb(223, 223, 246);
+}
+
+.card-text {
+  color: rgb(55, 55, 117);
+  text-align: center;
 }

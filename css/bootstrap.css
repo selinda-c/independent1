@@ -4765,6 +4765,8 @@ input[type="button"].btn-block {
 
 .card-title {
   margin-bottom: 0.75rem;
+  background-color: #7eaadabb;
+  border-radius: 20%;
 }
 
 .card-subtitle {
