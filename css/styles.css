@@ -8,9 +8,9 @@ h1 {
 
 .card {
   border: .095rem solid salmon;
-  border-radius: .3rem;
+  border-radius: .5rem;
   background-color: rgb(227, 205, 248);
-  margin-top: 3rem;
+  margin-top: 2rem;
   height: 100%;
 }
 
@@ -40,6 +40,6 @@ img {
   vertical-align: middle;
   border: .2rem solid salmon;
   border-radius: 2.0rem;
-  width: 15rem;
-  height: 13vmax;
+  width: 14rem;
+  height: 14vmax;
 }
