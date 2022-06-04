@@ -7,10 +7,10 @@ h1 {
 }
 
 .card {
-  border: .085rem solid salmon;
-  border-radius: .2rem;
+  border: .095rem solid salmon;
+  border-radius: .3rem;
   background-color: rgb(227, 205, 248);
-  margin-top: 1rem;
+  margin-top: 3rem;
   height: 100%;
 }
 
@@ -41,4 +41,5 @@ img {
   border: .2rem solid salmon;
   border-radius: 2.0rem;
   width: 15rem;
+  height: 13vmax;
 }
