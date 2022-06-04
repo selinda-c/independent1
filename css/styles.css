@@ -12,6 +12,7 @@ h1 {
   background-color: rgb(227, 205, 248);
   margin-top: 2rem;
   height: 100%;
+  padding: 1rem;
 }
 
 .card img {
