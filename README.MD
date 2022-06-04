@@ -12,7 +12,7 @@
 
 ## Description
 
-_This page is coded and designed by me. It has three sections: About me, my projects, and why epicodus. About me gives you my background, and tells you about hobbies I enjoy. My projects features links to my GitHub Repositories for some things I have created so far. Why epicodus explains my history with coding and why I decided to take this bootcamp._
+_This page is coded and designed by me. It has three sections: About me, my projects, and why epicodus. About me gives you my background, and tells you about hobbies I enjoy. My projects features links to my GitHub Repositories for some things I have created so far. Why epicodus explains my history with coding and why I decided to take this bootcamp.{Link to GH pages}(https://selinda-c.github.io/independent1/)_
 
 ## Setup/Installation Requirements
 
