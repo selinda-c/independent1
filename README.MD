@@ -12,11 +12,14 @@
 
 ## Description
 
-_This page is coded and designed by me. It has three sections: About me, my projects, and why epicodus. About me gives you my background, and tells you about hobbies I enjoy. My projects features links to my GitHub Repositories for some things I have created so far. Why epicodus explains my history with coding and why I decided to take this bootcamp.[Link to GH pages](https://selinda-c.github.io/independent1/)_
+_This page is coded and designed by me. It has three sections: About me, my projects, and why epicodus. About me gives you my background, and tells you about hobbies I enjoy. My projects features links to my GitHub Repositories for some things I have created so far. Why epicodus explains my history with coding and why I decided to take this bootcamp. [Link to GH pages](https://selinda-c.github.io/independent1/)_
 
 ## Setup/Installation Requirements
 
-* _Best viewed in Google Chrome or Safari_
+* _Clone the GitHub repository: (https://github.com/selinda-c/independent1)_
+* _Navigate to the cloned directory in your downloads_
+* _Open the index.html page in your web browser_
+* _This is best viewed in Safari and Chrome_
 
 ## Known Bugs
 
