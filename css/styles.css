@@ -1,9 +1,21 @@
+body {
+  background-color: rgb(223, 223, 246);
+}
+
 h1 {
   color: lavenderblush;
   margin-top: .2rem;
   text-align: center;
   font-style: italic;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+  vertical-align: middle;
+  border: .2rem solid salmon;
+  border-radius: 2.0rem;
+  width: 14rem;
+  height: 14vmax;
 }
 
 .card {
@@ -20,10 +32,6 @@ h1 {
   margin: 1rem;
 }
 
-body {
-  background-color: rgb(223, 223, 246);
-}
-
 .card-text {
   color: rgb(55, 55, 117);
   text-align: center;
@@ -35,12 +43,4 @@ body {
 
 .highlight {
   background-color: rgba(255, 255, 0, 0.529);
-}
-
-img {
-  vertical-align: middle;
-  border: .2rem solid salmon;
-  border-radius: 2.0rem;
-  width: 14rem;
-  height: 14vmax;
 }
