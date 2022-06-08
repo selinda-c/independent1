@@ -16,7 +16,7 @@ _This page is coded and designed by me. It has three sections: About me, my proj
 
 ## Setup/Installation Requirements
 
-* _Clone the GitHub repository: (https://github.com/selinda-c/independent1)_
+* _Clone the GitHub repository via command "Git clone" in your terminal: https://github.com/selinda-c/independent1_
 * _Navigate to the cloned directory in your downloads_
 * _Open the index.html page in your web browser_
 * _This is best viewed in Safari and Chrome_
